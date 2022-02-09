@@ -8,6 +8,8 @@ namespace Boss
     {
         static void Main(string[] args)
         {
+            //fdf
+            //fdf
             ConsoleColor oldColor = Console.ForegroundColor;
             WriteColoredLine("Босс может атаковать в двух режимах: все атаки по очереди и случайной атакой", ConsoleColor.Yellow);
             int Health = 1000;
